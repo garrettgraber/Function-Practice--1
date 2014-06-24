@@ -21,8 +21,7 @@ var square = function(inValue) {
 
 // Number 4
 var negate = function(inValue) {
-	var result = -1 * inValue;
-	return result;
+	return -1 * inValue;
 };
 
 // Number 5
